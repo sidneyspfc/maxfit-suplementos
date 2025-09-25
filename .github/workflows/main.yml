@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos - MaxFit Suplementos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">MaxFit</div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="produtos.html">Produtos</a>
+            <a href="sobre.html">Sobre</a>
+            <a href="contato.html">Contato</a>
+        </nav>
+    </header>
+
+    <section class="destaques">
+        <h2>Nossos Produtos</h2>
+        <div class="cards">
+            <div class="card">
+                <img src="images/whey.jpg" alt="Whey Protein">
+                <h3>Whey Protein</h3>
+                <p>Proteína de alto valor biológico para massa muscular.</p>
+                <p>R$ 149,90</p>
+                <a href="#" class="btn-card">Comprar</a>
+            </div>
+            <div class="card">
+                <img src="images/bcaa.jpg" alt="BCAA">
+                <h3>BCAA</h3>
+                <p>Recuperação rápida após o treino intenso.</p>
+                <p>R$ 79,90</p>
+                <a href="#" class="btn-card">Comprar</a>
+            </div>
+            <div class="card">
+                <img src="images/creatina.jpg" alt="Creatina">
+                <h3>Creatina</h3>
+                <p>Mais força e explosão nos treinos.</p>
+                <p>R$ 69,90</p>
+                <a href="#" class="btn-card">Comprar</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 MaxFit Suplementos. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
